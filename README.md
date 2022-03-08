@@ -24,10 +24,10 @@ timetable.
 STEPS TO RUN THE CODE
 
                                                                 
-Required Software
-XAMPP
-PhpMyAdmin
-Sublime text editor
+  Required Software
+1)XAMPP
+2)PhpMyAdmin
+3)Sublime text editor
 
 Steps to run the project
 Download the folder
